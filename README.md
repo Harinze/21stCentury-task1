@@ -45,7 +45,8 @@ server {
 ```
 
 ## Step 4: Enable the WordPress Site
-```sudo ln -s /etc/nginx/sites-available/wordpress /etc/nginx/sites-enabled/
+```
+sudo ln -s /etc/nginx/sites-available/wordpress /etc/nginx/sites-enabled/
 ```
 ## Step 5: Restart Nginx
 ```
