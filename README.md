@@ -17,8 +17,8 @@ sudo apt install php-fpm php-mysql
 ## Step 3: Configure Nginx
 ```
 sudo nano /etc/nginx/sites-available/wordpress
-# Add the following configuration:
-# Replace <your server ip address> with your actual server IP address
+ Add the following configuration:
+ Replace <your server ip address> with your actual server IP address
 server {
     listen 80;
     server_name <your server ip address>;
