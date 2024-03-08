@@ -1,5 +1,6 @@
 # WordPress Store Setup Guide
 This guide provides step-by-step instructions to set up a WordPress store on your server.
+url: http://135.181.203.59/
 
 ## Step 1: SSH into the Server
 
